@@ -305,3 +305,8 @@ RuntimeError: b'no arguments in initialization list'"
 - entered "conda install -c conda-forge geopandas" into Anaconda command prompt to instal geopandas 
 
 - when installing the package the environment could not be solved and package failed to install. ICT told me I might have problems with this, I have reached out to them and will update once resolved. 
+
+07/02/2020
+- ICT able to install shapley but not geopandas. ICT reports that geopandas requires certain dependancies and a special configuration to install that they were unable to do and thus could not install geopandas. 
+
+- investigating stackoverlow/exchange/github to see what others say about installing geopandas
